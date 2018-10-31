@@ -1,0 +1,8 @@
+c:\users\luis alberto castro\documents\visual studio 2017\Projects\HelloNetCore\HelloNetCore\bin\Debug\netcoreapp1.1\HelloNetCore.deps.json
+c:\users\luis alberto castro\documents\visual studio 2017\Projects\HelloNetCore\HelloNetCore\bin\Debug\netcoreapp1.1\HelloNetCore.runtimeconfig.json
+c:\users\luis alberto castro\documents\visual studio 2017\Projects\HelloNetCore\HelloNetCore\bin\Debug\netcoreapp1.1\HelloNetCore.runtimeconfig.dev.json
+c:\users\luis alberto castro\documents\visual studio 2017\Projects\HelloNetCore\HelloNetCore\bin\Debug\netcoreapp1.1\HelloNetCore.dll
+c:\users\luis alberto castro\documents\visual studio 2017\Projects\HelloNetCore\HelloNetCore\bin\Debug\netcoreapp1.1\HelloNetCore.pdb
+c:\users\luis alberto castro\documents\visual studio 2017\Projects\HelloNetCore\HelloNetCore\obj\Debug\netcoreapp1.1\HelloNetCore.AssemblyInfo.cs
+c:\users\luis alberto castro\documents\visual studio 2017\Projects\HelloNetCore\HelloNetCore\obj\Debug\netcoreapp1.1\HelloNetCore.dll
+c:\users\luis alberto castro\documents\visual studio 2017\Projects\HelloNetCore\HelloNetCore\obj\Debug\netcoreapp1.1\HelloNetCore.pdb
